@@ -218,6 +218,7 @@
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/scopedcss/projectbundle/Fall2025-Project1-agparker9.bundle.scp.css
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/9euquy4ntt-lugek5hnai.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/r73unwzbeb-61n19gt1b8.gz
+/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/1qw3z4nyii-dd1dilevvs.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/97kf6h8lkf-fr7q2aak1r.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/xkty333aat-bqjiyaj88i.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/c20ehks8mq-c2jlpeoesf.gz
@@ -278,6 +279,7 @@
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/aotq40i4ua-muycvpuwrr.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/mvyn3ywerg-87fc7y1x7t.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/asffb62oyl-jfsiqqwiad.gz
+/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/8xpvil1as9-9f4dt8v5ib.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/37etgv6gax-wixoc49c7b.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/ri8p6pqmfj-wixoc49c7b.gz
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/staticwebassets.build.json
@@ -289,5 +291,3 @@
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/Fall2025-Project1-agparker9.pdb
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/Fall2025-Project1-agparker9.genruntimeconfig.cache
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/ref/Fall2025-Project1-agparker9.dll
-/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/8xpvil1as9-wswafbdw5e.gz
-/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project1/Fall2025-Project1-agparker9-ProjectFolder/Fall2025-Project1-agparker9/obj/Debug/net9.0/compressed/1qw3z4nyii-9vos1r8mw0.gz
